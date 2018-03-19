@@ -1,4 +1,4 @@
-# QuickiTerm
+# Quick_iTerm
 Open your current MacOs finder folder on iTerm
 
 Import the AppleScript on Automator
